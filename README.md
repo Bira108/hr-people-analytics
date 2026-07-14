@@ -1,6 +1,3 @@
-# hr-people-analytics
-End-to-end People Analytics project built in BigQuery and Looker Studio — covering recruiting funnel, workforce turnover and absence analysis.
-
 # HR People Analytics
 ### Recruiting, Workforce Turnover & Absence Analysis
 
@@ -115,7 +112,7 @@ Built in Looker Studio with three interactive pages:
 - **Page 2** — Employee Turnover Analysis
 - **Page 3** — Employee Absence Analysis
 
-[View Dashboard]((https://datastudio.google.com/s/vMo-Qu0YbIA))
+[View Dashboard][(https://datastudio.google.com/s/vMo-Qu0YbIA)]
 
 ---
 
