@@ -1,0 +1,401 @@
+candidate_id,full_name,applied_date,department,recruiting_channel,final_stage,outcome,days_to_close,close_date,recruiter
+CAND0001,Sophie Meyer,2023-07-22,Marketing,Referral,Offer,Hired,26,2023-08-17,Tobias Wolf
+CAND0002,Nina Weber,2024-08-16,Finance,Job Board,Interview,Rejected,87,2024-11-11,Tobias Wolf
+CAND0003,Thomas Koch,2024-03-28,HR,LinkedIn,Interview,Rejected,82,2024-06-18,Elena Koch
+CAND0004,Hannah Schneider,2024-04-07,HR,Company Website,Offer,Hired,54,2024-05-31,Elena Koch
+CAND0005,Monika Braun,2024-08-17,HR,Job Board,Applied,Rejected,64,2024-10-20,Marcus Bauer
+CAND0006,Julia Schmitt,2024-05-02,Finance,Company Website,Applied,Rejected,64,2024-07-05,Sandra Meier
+CAND0007,Petra Klein,2024-10-23,Finance,LinkedIn,Offer,Hired,38,2024-11-30,Marcus Bauer
+CAND0008,Thomas Schmitt,2023-10-17,Marketing,Company Website,Interview,Rejected,83,2024-01-08,Sandra Meier
+CAND0009,Katharina Hartmann,2023-04-07,Marketing,LinkedIn,Offer,Rejected,43,2023-05-20,Marcus Bauer
+CAND0010,Daniel Weber,2024-08-19,Engineering,Company Website,Interview,Rejected,46,2024-10-04,Elena Koch
+CAND0011,Oliver Schneider,2024-01-21,Finance,Company Website,Interview,Rejected,23,2024-02-13,Tobias Wolf
+CAND0012,Marco Wagner,2024-01-07,Engineering,Company Website,Screening,Rejected,50,2024-02-26,Marcus Bauer
+CAND0013,Sabine Lange,2023-03-21,Sales,Referral,Offer,Hired,19,2023-04-09,Elena Koch
+CAND0014,David Werner,2023-05-15,Finance,Company Website,Screening,Rejected,27,2023-06-11,Marcus Bauer
+CAND0015,Philipp Hoffmann,2024-02-25,Engineering,Job Board,Screening,Rejected,63,2024-04-28,Tobias Wolf
+CAND0016,Emma Koch,2023-09-02,Finance,Referral,Offer,Hired,67,2023-11-08,Tobias Wolf
+CAND0017,Emma Schmitt,2024-01-27,Marketing,Job Board,Offer,Rejected,27,2024-02-23,Marcus Bauer
+CAND0018,Julia Hofmann,2024-10-18,Engineering,Company Website,Interview,Rejected,77,2025-01-03,Elena Koch
+CAND0019,Jan Lehmann,2023-06-14,Engineering,Company Website,Screening,Rejected,62,2023-08-15,Marcus Bauer
+CAND0020,Patrick Becker,2023-01-28,Marketing,Job Board,Offer,Rejected,71,2023-04-09,Tobias Wolf
+CAND0021,Christian Schmitt,2023-08-18,Marketing,LinkedIn,Offer,Hired,19,2023-09-06,Marcus Bauer
+CAND0022,Elena Klein,2023-10-21,Engineering,Referral,Interview,Withdrawn,24,2023-11-14,Elena Koch
+CAND0023,Vanessa Schröder,2023-09-20,Engineering,LinkedIn,Screening,Rejected,77,2023-12-06,Tobias Wolf
+CAND0024,Sandra Braun,2023-09-01,Marketing,LinkedIn,Applied,Rejected,37,2023-10-08,Tobias Wolf
+CAND0025,Sabine Schwarz,2024-05-26,Engineering,LinkedIn,Applied,Rejected,87,2024-08-21,Marcus Bauer
+CAND0026,Stefan Schwarz,2024-03-15,Marketing,Referral,Offer,Hired,52,2024-05-06,Tobias Wolf
+CAND0027,Sophie Schröder,2024-11-15,Operations,Referral,Offer,Hired,53,2025-01-07,Elena Koch
+CAND0028,Lukas Koch,2023-02-14,HR,Job Board,Interview,Rejected,39,2023-03-25,Elena Koch
+CAND0029,Maria Koch,2024-11-03,Sales,Company Website,Interview,Rejected,24,2024-11-27,Sandra Meier
+CAND0030,David Schmitt,2024-04-20,Operations,Referral,Interview,Withdrawn,87,2024-07-16,Marcus Bauer
+CAND0031,Maria Schmitt,2024-04-13,Operations,LinkedIn,Offer,Hired,32,2024-05-15,Marcus Bauer
+CAND0032,Maria Lange,2023-11-14,Marketing,LinkedIn,Offer,Rejected,39,2023-12-23,Marcus Bauer
+CAND0033,Markus Schmitt,2023-02-18,Marketing,Company Website,Interview,Withdrawn,41,2023-03-31,Sandra Meier
+CAND0034,David Wolf,2024-03-26,HR,Job Board,Interview,Withdrawn,50,2024-05-15,Tobias Wolf
+CAND0035,Florian Zimmermann,2023-10-01,Finance,Company Website,Interview,Withdrawn,17,2023-10-18,Marcus Bauer
+CAND0036,Andreas Klein,2023-04-16,Marketing,Company Website,Offer,Hired,44,2023-05-30,Tobias Wolf
+CAND0037,Philipp Richter,2024-03-30,Operations,Referral,Applied,Rejected,52,2024-05-21,Sandra Meier
+CAND0038,Sarah Müller,2024-11-18,Engineering,LinkedIn,Interview,Rejected,72,2025-01-29,Marcus Bauer
+CAND0039,Patrick Koch,2023-05-10,Engineering,Job Board,Offer,Hired,89,2023-08-07,Tobias Wolf
+CAND0040,Petra Lange,2023-06-07,Finance,LinkedIn,Interview,Rejected,54,2023-07-31,Elena Koch
+CAND0041,Markus Müller,2024-01-11,Finance,Referral,Interview,Rejected,38,2024-02-18,Marcus Bauer
+CAND0042,Katharina Hofmann,2024-02-01,Finance,Job Board,Screening,Withdrawn,40,2024-03-12,Tobias Wolf
+CAND0043,Markus Weber,2023-10-20,Finance,Referral,Offer,Rejected,32,2023-11-21,Elena Koch
+CAND0044,Lena Hofmann,2024-12-31,Sales,Job Board,Applied,Rejected,47,2025-02-16,Elena Koch
+CAND0045,Sabine Becker,2023-06-11,Marketing,Company Website,Screening,Rejected,53,2023-08-03,Elena Koch
+CAND0046,Fabian Schwarz,2023-08-31,Sales,Referral,Applied,Rejected,53,2023-10-23,Sandra Meier
+CAND0047,Andreas Bauer,2023-05-13,Finance,Job Board,Applied,Rejected,15,2023-05-28,Tobias Wolf
+CAND0048,Sophie Klein,2024-08-11,HR,Job Board,Offer,Hired,47,2024-09-27,Tobias Wolf
+CAND0049,Florian Schröder,2024-07-18,Sales,Company Website,Screening,Rejected,23,2024-08-10,Elena Koch
+CAND0050,Lisa Koch,2023-06-06,Finance,LinkedIn,Screening,Rejected,48,2023-07-24,Sandra Meier
+CAND0051,Andreas Zimmermann,2023-07-21,Marketing,LinkedIn,Interview,Rejected,23,2023-08-13,Elena Koch
+CAND0052,Vanessa Schäfer,2024-08-17,Finance,Referral,Offer,Hired,86,2024-11-11,Elena Koch
+CAND0053,Tobias Lange,2023-02-16,Engineering,LinkedIn,Interview,Withdrawn,90,2023-05-17,Tobias Wolf
+CAND0054,Stefan Schmitt,2024-10-04,HR,LinkedIn,Interview,Rejected,68,2024-12-11,Tobias Wolf
+CAND0055,Sandra Wolf,2023-03-16,HR,Company Website,Screening,Rejected,63,2023-05-18,Tobias Wolf
+CAND0056,Lena Bauer,2024-09-13,Marketing,Referral,Offer,Hired,47,2024-10-30,Marcus Bauer
+CAND0057,Simon Fischer,2024-07-29,Finance,Company Website,Offer,Hired,37,2024-09-04,Sandra Meier
+CAND0058,Philipp Richter,2023-05-25,Sales,Job Board,Interview,Rejected,56,2023-07-20,Marcus Bauer
+CAND0059,Marco Schröder,2024-08-14,Marketing,Referral,Screening,Rejected,27,2024-09-10,Tobias Wolf
+CAND0060,Sabine Klein,2024-05-24,Marketing,Job Board,Offer,Hired,57,2024-07-20,Marcus Bauer
+CAND0061,Marco Zimmermann,2023-12-28,Finance,Referral,Offer,Hired,43,2024-02-09,Tobias Wolf
+CAND0062,Katharina Hartmann,2023-01-09,Finance,Company Website,Interview,Withdrawn,24,2023-02-02,Sandra Meier
+CAND0063,Fabian Hoffmann,2023-02-16,Marketing,Job Board,Screening,Rejected,53,2023-04-10,Elena Koch
+CAND0064,Philipp Fischer,2024-04-06,Finance,Job Board,Interview,Rejected,86,2024-07-01,Marcus Bauer
+CAND0065,Patrick Lange,2024-01-18,HR,LinkedIn,Interview,Rejected,78,2024-04-05,Marcus Bauer
+CAND0066,Maria Weber,2024-06-05,Finance,Referral,Applied,Rejected,12,2024-06-17,Sandra Meier
+CAND0067,Philipp Schäfer,2024-04-12,Finance,Job Board,Screening,Rejected,48,2024-05-30,Marcus Bauer
+CAND0068,Andreas Wolf,2023-11-03,Finance,Job Board,Offer,Rejected,79,2024-01-21,Elena Koch
+CAND0069,Tim Hoffmann,2024-11-20,Marketing,Company Website,Offer,Hired,60,2025-01-19,Elena Koch
+CAND0070,Tim Wolf,2024-11-02,Marketing,Job Board,Screening,Rejected,13,2024-11-15,Marcus Bauer
+CAND0071,Lukas Klein,2024-11-28,Sales,Job Board,Applied,Rejected,31,2024-12-29,Sandra Meier
+CAND0072,Philipp Lehmann,2024-02-27,Sales,Job Board,Offer,Rejected,71,2024-05-08,Tobias Wolf
+CAND0073,Oliver Bauer,2023-05-22,Operations,LinkedIn,Interview,Rejected,68,2023-07-29,Sandra Meier
+CAND0074,Katharina Zimmermann,2024-06-29,HR,Referral,Interview,Rejected,89,2024-09-26,Tobias Wolf
+CAND0075,Hannah Hofmann,2023-10-13,Sales,Referral,Screening,Rejected,45,2023-11-27,Marcus Bauer
+CAND0076,Markus Schwarz,2024-05-06,Marketing,Job Board,Interview,Rejected,43,2024-06-18,Tobias Wolf
+CAND0077,Lena Lehmann,2023-05-30,Marketing,Job Board,Interview,Rejected,17,2023-06-16,Tobias Wolf
+CAND0078,Michael Weber,2024-05-05,Operations,Company Website,Interview,Rejected,78,2024-07-22,Elena Koch
+CAND0079,Lisa Schmidt,2023-02-21,Sales,Referral,Screening,Rejected,88,2023-05-20,Elena Koch
+CAND0080,Fabian Lehmann,2024-04-28,Marketing,Job Board,Screening,Rejected,7,2024-05-05,Marcus Bauer
+CAND0081,Nina Hoffmann,2024-05-02,Operations,Job Board,Screening,Rejected,43,2024-06-14,Elena Koch
+CAND0082,Sandra Meier,2024-08-10,Operations,LinkedIn,Applied,Rejected,29,2024-09-08,Marcus Bauer
+CAND0083,Anna Hoffmann,2024-05-22,HR,LinkedIn,Interview,Rejected,11,2024-06-02,Elena Koch
+CAND0084,Sabine Klein,2024-04-10,Marketing,Company Website,Interview,Withdrawn,24,2024-05-04,Sandra Meier
+CAND0085,Katharina Hofmann,2023-12-05,Engineering,Referral,Offer,Hired,65,2024-02-08,Marcus Bauer
+CAND0086,Philipp Krause,2023-12-12,Operations,LinkedIn,Screening,Rejected,29,2024-01-10,Tobias Wolf
+CAND0087,Laura Wolf,2023-12-02,Finance,Job Board,Applied,Rejected,30,2024-01-01,Sandra Meier
+CAND0088,Christian Hoffmann,2023-09-25,Engineering,Referral,Offer,Rejected,41,2023-11-05,Elena Koch
+CAND0089,Simon Hoffmann,2024-01-04,Operations,Company Website,Applied,Rejected,22,2024-01-26,Marcus Bauer
+CAND0090,Hannah Koch,2024-05-29,Operations,Job Board,Interview,Withdrawn,22,2024-06-20,Marcus Bauer
+CAND0091,Patrick Richter,2024-05-04,Sales,Referral,Offer,Hired,84,2024-07-27,Tobias Wolf
+CAND0092,Petra Schröder,2024-11-27,Sales,Referral,Applied,Rejected,74,2025-02-09,Sandra Meier
+CAND0093,Sabine Wagner,2023-04-25,Finance,LinkedIn,Offer,Hired,77,2023-07-11,Marcus Bauer
+CAND0094,Marco Schneider,2024-06-16,Marketing,Referral,Screening,Rejected,81,2024-09-05,Tobias Wolf
+CAND0095,Thomas Neumann,2023-05-16,HR,LinkedIn,Offer,Rejected,79,2023-08-03,Tobias Wolf
+CAND0096,Tim Schneider,2023-01-23,Operations,Company Website,Applied,Rejected,34,2023-02-26,Elena Koch
+CAND0097,Sophie Lehmann,2024-12-18,Marketing,Job Board,Offer,Hired,14,2025-01-01,Tobias Wolf
+CAND0098,Sandra Koch,2024-02-23,Marketing,LinkedIn,Offer,Hired,24,2024-03-18,Tobias Wolf
+CAND0099,Lena Fischer,2024-01-20,HR,Job Board,Screening,Rejected,90,2024-04-19,Marcus Bauer
+CAND0100,Lukas Hoffmann,2023-05-11,Finance,Job Board,Screening,Rejected,7,2023-05-18,Tobias Wolf
+CAND0101,Lena Weber,2024-01-24,Finance,Job Board,Screening,Withdrawn,65,2024-03-29,Sandra Meier
+CAND0102,Philipp Lange,2023-04-26,Operations,Referral,Offer,Hired,60,2023-06-25,Elena Koch
+CAND0103,Petra Zimmermann,2023-03-10,Sales,Referral,Offer,Hired,11,2023-03-21,Elena Koch
+CAND0104,Tobias Lange,2023-02-15,Operations,Referral,Screening,Rejected,76,2023-05-02,Elena Koch
+CAND0105,Nina Schwarz,2023-10-24,Finance,Referral,Offer,Hired,80,2024-01-12,Sandra Meier
+CAND0106,Andreas Schulz,2023-05-27,Marketing,Referral,Screening,Withdrawn,59,2023-07-25,Elena Koch
+CAND0107,Lena Braun,2024-11-26,Operations,Referral,Offer,Rejected,13,2024-12-09,Tobias Wolf
+CAND0108,David Lange,2024-03-02,Operations,Company Website,Interview,Rejected,55,2024-04-26,Tobias Wolf
+CAND0109,Thomas Neumann,2023-11-04,Sales,Referral,Screening,Withdrawn,66,2024-01-09,Tobias Wolf
+CAND0110,Tobias Schäfer,2024-06-26,Finance,Job Board,Screening,Rejected,39,2024-08-04,Elena Koch
+CAND0111,Michael Bauer,2023-04-05,Marketing,Job Board,Screening,Rejected,13,2023-04-18,Elena Koch
+CAND0112,Tobias Krause,2024-08-24,Sales,LinkedIn,Screening,Rejected,68,2024-10-31,Sandra Meier
+CAND0113,Stefan Hofmann,2023-08-05,Engineering,Company Website,Screening,Withdrawn,68,2023-10-12,Marcus Bauer
+CAND0114,Simon Neumann,2024-07-19,Sales,Job Board,Interview,Rejected,55,2024-09-12,Sandra Meier
+CAND0115,Julia Schmitt,2024-01-04,Marketing,Company Website,Offer,Rejected,66,2024-03-10,Tobias Wolf
+CAND0116,Lisa Hartmann,2024-01-15,Sales,Company Website,Applied,Rejected,79,2024-04-03,Marcus Bauer
+CAND0117,Felix Wagner,2024-07-20,Marketing,LinkedIn,Interview,Withdrawn,44,2024-09-02,Sandra Meier
+CAND0118,Christian Schulz,2024-08-06,HR,Referral,Interview,Withdrawn,77,2024-10-22,Tobias Wolf
+CAND0119,Laura Hartmann,2023-06-22,HR,Job Board,Interview,Rejected,28,2023-07-20,Tobias Wolf
+CAND0120,Thomas Lange,2024-10-19,Finance,Referral,Screening,Withdrawn,16,2024-11-04,Elena Koch
+CAND0121,Tobias Schröder,2024-10-07,Sales,Job Board,Screening,Rejected,8,2024-10-15,Tobias Wolf
+CAND0122,Lukas Müller,2024-09-24,Engineering,Company Website,Offer,Rejected,69,2024-12-02,Tobias Wolf
+CAND0123,Sabine Werner,2024-06-26,Engineering,LinkedIn,Interview,Rejected,9,2024-07-05,Tobias Wolf
+CAND0124,Philipp Schröder,2023-04-09,Engineering,Referral,Screening,Rejected,31,2023-05-10,Sandra Meier
+CAND0125,Simon Schwarz,2024-02-11,Marketing,Company Website,Offer,Hired,58,2024-04-09,Marcus Bauer
+CAND0126,Maria Schneider,2024-12-01,Marketing,Referral,Screening,Withdrawn,90,2025-03-01,Tobias Wolf
+CAND0127,Jan Wolf,2024-07-19,HR,Job Board,Applied,Rejected,28,2024-08-16,Tobias Wolf
+CAND0128,Tobias Meier,2023-04-08,Finance,Company Website,Screening,Withdrawn,36,2023-05-14,Tobias Wolf
+CAND0129,Monika Krüger,2023-03-18,Engineering,Company Website,Interview,Rejected,76,2023-06-02,Elena Koch
+CAND0130,Sophie Hoffmann,2023-01-17,Marketing,Referral,Screening,Withdrawn,57,2023-03-15,Marcus Bauer
+CAND0131,Laura Schmitt,2024-02-03,Finance,Referral,Interview,Rejected,56,2024-03-30,Elena Koch
+CAND0132,Vanessa Lange,2023-04-11,Engineering,Company Website,Applied,Rejected,50,2023-05-31,Tobias Wolf
+CAND0133,Lisa Koch,2024-10-11,Engineering,Company Website,Offer,Rejected,69,2024-12-19,Tobias Wolf
+CAND0134,Philipp Hoffmann,2024-11-27,Sales,Job Board,Offer,Rejected,17,2024-12-14,Marcus Bauer
+CAND0135,Felix Hartmann,2023-10-02,Engineering,LinkedIn,Offer,Hired,88,2023-12-29,Tobias Wolf
+CAND0136,Petra Koch,2023-04-20,Marketing,Company Website,Offer,Hired,46,2023-06-05,Sandra Meier
+CAND0137,Fabian Schröder,2023-03-31,Sales,LinkedIn,Offer,Rejected,78,2023-06-17,Tobias Wolf
+CAND0138,Vanessa Schmitt,2023-04-02,Engineering,LinkedIn,Applied,Rejected,83,2023-06-24,Sandra Meier
+CAND0139,Stefan Schwarz,2023-10-26,Engineering,Job Board,Applied,Rejected,78,2024-01-12,Marcus Bauer
+CAND0140,Felix Schneider,2023-05-23,Sales,Job Board,Interview,Rejected,70,2023-08-01,Marcus Bauer
+CAND0141,Katharina Becker,2024-03-07,Marketing,Job Board,Applied,Rejected,53,2024-04-29,Tobias Wolf
+CAND0142,Daniel Schäfer,2023-04-20,HR,Referral,Offer,Hired,7,2023-04-27,Tobias Wolf
+CAND0143,Nina Zimmermann,2023-12-09,HR,Company Website,Screening,Rejected,45,2024-01-23,Marcus Bauer
+CAND0144,Marco Schwarz,2023-07-01,Marketing,Job Board,Interview,Withdrawn,44,2023-08-14,Marcus Bauer
+CAND0145,Markus Lehmann,2023-10-15,HR,Company Website,Interview,Withdrawn,53,2023-12-07,Marcus Bauer
+CAND0146,Tobias Klein,2024-07-17,Operations,Referral,Offer,Hired,66,2024-09-21,Sandra Meier
+CAND0147,Katharina Krüger,2024-11-20,HR,LinkedIn,Interview,Rejected,37,2024-12-27,Marcus Bauer
+CAND0148,Daniel Neumann,2023-03-17,HR,Job Board,Offer,Rejected,81,2023-06-06,Tobias Wolf
+CAND0149,Stefan Krüger,2024-12-19,Marketing,LinkedIn,Screening,Withdrawn,20,2025-01-08,Sandra Meier
+CAND0150,Daniel Lange,2024-09-19,Operations,Referral,Offer,Hired,89,2024-12-17,Sandra Meier
+CAND0151,Oliver Neumann,2023-01-11,Engineering,Job Board,Screening,Rejected,72,2023-03-24,Marcus Bauer
+CAND0152,Lukas Wolf,2024-02-05,Marketing,Job Board,Screening,Rejected,51,2024-03-27,Elena Koch
+CAND0153,Lena Hoffmann,2023-03-29,HR,Company Website,Offer,Hired,25,2023-04-23,Sandra Meier
+CAND0154,Petra Hartmann,2024-06-17,Sales,Job Board,Offer,Rejected,19,2024-07-06,Tobias Wolf
+CAND0155,Lukas Krause,2023-11-04,Engineering,Company Website,Offer,Hired,21,2023-11-25,Sandra Meier
+CAND0156,David Neumann,2023-06-18,Operations,LinkedIn,Screening,Withdrawn,73,2023-08-30,Marcus Bauer
+CAND0157,David Meyer,2024-03-12,Finance,Company Website,Screening,Withdrawn,58,2024-05-09,Tobias Wolf
+CAND0158,Florian Bauer,2024-09-20,Engineering,Job Board,Interview,Withdrawn,82,2024-12-11,Elena Koch
+CAND0159,Julia Schmitt,2023-10-13,Sales,Referral,Applied,Rejected,80,2024-01-01,Marcus Bauer
+CAND0160,Oliver Braun,2023-07-21,Marketing,Company Website,Interview,Rejected,69,2023-09-28,Sandra Meier
+CAND0161,Simon Zimmermann,2024-02-06,Finance,Job Board,Interview,Rejected,52,2024-03-29,Marcus Bauer
+CAND0162,Nina Fischer,2024-08-27,Finance,Company Website,Offer,Hired,24,2024-09-20,Marcus Bauer
+CAND0163,Claudia Richter,2023-07-07,Engineering,Company Website,Screening,Rejected,72,2023-09-17,Marcus Bauer
+CAND0164,Sarah Wolf,2023-07-10,HR,Job Board,Screening,Rejected,78,2023-09-26,Sandra Meier
+CAND0165,Anna Wolf,2023-11-19,Sales,Referral,Screening,Withdrawn,52,2024-01-10,Marcus Bauer
+CAND0166,Marco Richter,2024-07-29,HR,Referral,Offer,Rejected,59,2024-09-26,Tobias Wolf
+CAND0167,Maria Schulz,2023-03-26,Sales,Job Board,Screening,Rejected,44,2023-05-09,Marcus Bauer
+CAND0168,Sabine Fischer,2024-04-13,Sales,Company Website,Offer,Rejected,77,2024-06-29,Elena Koch
+CAND0169,Jessica Wagner,2024-01-11,Finance,Company Website,Applied,Rejected,63,2024-03-14,Tobias Wolf
+CAND0170,Petra Schulz,2024-10-31,Operations,LinkedIn,Interview,Rejected,11,2024-11-11,Sandra Meier
+CAND0171,Tim Hofmann,2023-05-01,HR,LinkedIn,Screening,Rejected,33,2023-06-03,Sandra Meier
+CAND0172,Thomas Schwarz,2024-09-22,Sales,Job Board,Screening,Rejected,33,2024-10-25,Sandra Meier
+CAND0173,Monika Schulz,2024-07-05,Finance,Company Website,Interview,Rejected,44,2024-08-18,Elena Koch
+CAND0174,Stefan Weber,2023-03-02,HR,Referral,Screening,Withdrawn,23,2023-03-25,Sandra Meier
+CAND0175,Sandra Bauer,2024-02-07,Operations,Referral,Interview,Rejected,87,2024-05-04,Tobias Wolf
+CAND0176,Simon Wolf,2023-04-06,Operations,LinkedIn,Interview,Rejected,54,2023-05-30,Sandra Meier
+CAND0177,Lena Krause,2023-04-06,Operations,LinkedIn,Offer,Rejected,88,2023-07-03,Elena Koch
+CAND0178,Nina Werner,2024-03-15,Sales,Job Board,Interview,Withdrawn,41,2024-04-25,Sandra Meier
+CAND0179,Thomas Schmidt,2024-08-14,Finance,Company Website,Offer,Rejected,50,2024-10-03,Elena Koch
+CAND0180,Simon Müller,2023-05-08,Engineering,Job Board,Screening,Withdrawn,63,2023-07-10,Tobias Wolf
+CAND0181,Michael Schneider,2023-05-16,Operations,Referral,Interview,Withdrawn,27,2023-06-12,Sandra Meier
+CAND0182,Daniel Braun,2024-01-16,Engineering,Company Website,Screening,Rejected,13,2024-01-29,Sandra Meier
+CAND0183,Anna Wagner,2024-11-02,HR,Referral,Offer,Hired,19,2024-11-21,Tobias Wolf
+CAND0184,Anna Hofmann,2024-08-30,Sales,LinkedIn,Offer,Rejected,8,2024-09-07,Sandra Meier
+CAND0185,Lisa Bauer,2024-12-11,HR,LinkedIn,Offer,Hired,16,2024-12-27,Elena Koch
+CAND0186,Claudia Lange,2023-11-17,Engineering,LinkedIn,Interview,Rejected,24,2023-12-11,Marcus Bauer
+CAND0187,Lena Hartmann,2024-06-27,Engineering,Referral,Screening,Rejected,63,2024-08-29,Marcus Bauer
+CAND0188,Julia Weber,2024-09-22,HR,Referral,Screening,Rejected,18,2024-10-10,Elena Koch
+CAND0189,Michael Braun,2024-03-15,Marketing,Job Board,Screening,Rejected,38,2024-04-22,Elena Koch
+CAND0190,Andreas Wagner,2024-09-07,Finance,Referral,Interview,Rejected,10,2024-09-17,Marcus Bauer
+CAND0191,Marco Bauer,2024-10-23,Marketing,Job Board,Offer,Hired,37,2024-11-29,Elena Koch
+CAND0192,Nina Weber,2024-10-15,HR,Referral,Applied,Rejected,53,2024-12-07,Tobias Wolf
+CAND0193,Lukas Schwarz,2024-07-13,Marketing,Job Board,Offer,Rejected,16,2024-07-29,Elena Koch
+CAND0194,Daniel Schröder,2023-08-09,Marketing,LinkedIn,Offer,Hired,14,2023-08-23,Sandra Meier
+CAND0195,Jan Hoffmann,2024-12-19,HR,Job Board,Screening,Rejected,42,2025-01-30,Elena Koch
+CAND0196,Florian Hartmann,2024-07-03,Sales,Referral,Applied,Rejected,46,2024-08-18,Marcus Bauer
+CAND0197,Philipp Zimmermann,2023-03-30,Sales,LinkedIn,Screening,Withdrawn,65,2023-06-03,Elena Koch
+CAND0198,Laura Hofmann,2024-11-04,Operations,Company Website,Applied,Rejected,8,2024-11-12,Elena Koch
+CAND0199,Patrick Weber,2023-12-22,HR,Referral,Interview,Rejected,28,2024-01-19,Sandra Meier
+CAND0200,Sophie Schulz,2023-12-10,Engineering,LinkedIn,Interview,Withdrawn,74,2024-02-22,Elena Koch
+CAND0201,Sarah Koch,2024-06-07,HR,Job Board,Offer,Rejected,79,2024-08-25,Marcus Bauer
+CAND0202,Sabine Müller,2024-08-10,Engineering,Company Website,Applied,Rejected,36,2024-09-15,Elena Koch
+CAND0203,David Lehmann,2023-02-17,Sales,LinkedIn,Offer,Rejected,26,2023-03-15,Elena Koch
+CAND0204,Sophie Schwarz,2023-11-26,Sales,Job Board,Interview,Rejected,41,2024-01-06,Sandra Meier
+CAND0205,Oliver Schmidt,2024-11-20,Finance,LinkedIn,Screening,Withdrawn,35,2024-12-25,Tobias Wolf
+CAND0206,Jan Neumann,2023-10-17,HR,LinkedIn,Interview,Rejected,48,2023-12-04,Tobias Wolf
+CAND0207,Stefan Klein,2023-07-25,Marketing,LinkedIn,Interview,Rejected,86,2023-10-19,Sandra Meier
+CAND0208,Anna Lehmann,2024-07-13,Sales,Job Board,Screening,Rejected,26,2024-08-08,Tobias Wolf
+CAND0209,Anna Lange,2024-07-08,Sales,LinkedIn,Applied,Rejected,49,2024-08-26,Tobias Wolf
+CAND0210,Marco Schmidt,2023-07-30,Engineering,Company Website,Screening,Rejected,60,2023-09-28,Marcus Bauer
+CAND0211,Simon Hartmann,2023-02-14,Engineering,Company Website,Interview,Withdrawn,54,2023-04-09,Elena Koch
+CAND0212,Tim Schwarz,2023-05-17,Finance,LinkedIn,Offer,Rejected,16,2023-06-02,Elena Koch
+CAND0213,Daniel Hofmann,2023-05-14,Operations,Job Board,Interview,Rejected,47,2023-06-30,Sandra Meier
+CAND0214,Tim Fischer,2023-10-06,HR,Company Website,Screening,Rejected,24,2023-10-30,Marcus Bauer
+CAND0215,Jessica Koch,2024-04-05,Sales,LinkedIn,Offer,Rejected,22,2024-04-27,Marcus Bauer
+CAND0216,Sarah Schmitt,2024-04-19,Marketing,Job Board,Applied,Rejected,18,2024-05-07,Sandra Meier
+CAND0217,Lena Bauer,2023-12-02,Sales,LinkedIn,Offer,Hired,38,2024-01-09,Elena Koch
+CAND0218,Petra Neumann,2023-06-28,Marketing,Company Website,Offer,Hired,58,2023-08-25,Marcus Bauer
+CAND0219,Anna Schmidt,2023-04-15,HR,LinkedIn,Screening,Withdrawn,22,2023-05-07,Marcus Bauer
+CAND0220,Tim Schulz,2024-02-15,Sales,Referral,Applied,Rejected,81,2024-05-06,Elena Koch
+CAND0221,Jan Meier,2023-07-22,Engineering,LinkedIn,Interview,Withdrawn,23,2023-08-14,Sandra Meier
+CAND0222,Florian Werner,2024-04-17,Engineering,LinkedIn,Offer,Hired,80,2024-07-06,Tobias Wolf
+CAND0223,Tobias Lehmann,2024-01-27,Engineering,Job Board,Screening,Rejected,52,2024-03-19,Marcus Bauer
+CAND0224,Philipp Zimmermann,2024-04-01,Marketing,Company Website,Screening,Withdrawn,85,2024-06-25,Marcus Bauer
+CAND0225,Jan Schulz,2024-02-26,HR,Company Website,Interview,Withdrawn,14,2024-03-11,Tobias Wolf
+CAND0226,Jessica Schmitt,2023-07-24,HR,Referral,Screening,Rejected,87,2023-10-19,Elena Koch
+CAND0227,Monika Schröder,2024-01-03,Operations,Job Board,Offer,Rejected,51,2024-02-23,Sandra Meier
+CAND0228,Lisa Müller,2023-07-04,Marketing,Job Board,Offer,Hired,83,2023-09-25,Sandra Meier
+CAND0229,Julia Becker,2024-06-26,HR,LinkedIn,Screening,Rejected,27,2024-07-23,Marcus Bauer
+CAND0230,Claudia Koch,2023-02-27,Finance,Company Website,Screening,Rejected,80,2023-05-18,Marcus Bauer
+CAND0231,Tim Müller,2024-08-29,Sales,Referral,Offer,Hired,52,2024-10-20,Sandra Meier
+CAND0232,Andreas Meyer,2023-07-12,Finance,Referral,Interview,Withdrawn,76,2023-09-26,Tobias Wolf
+CAND0233,Oliver Wolf,2023-02-27,Engineering,LinkedIn,Screening,Rejected,9,2023-03-08,Elena Koch
+CAND0234,Nina Schmidt,2023-07-26,Finance,Company Website,Interview,Withdrawn,29,2023-08-24,Elena Koch
+CAND0235,Patrick Schneider,2024-12-22,Finance,Referral,Screening,Withdrawn,74,2025-03-06,Sandra Meier
+CAND0236,Sarah Hartmann,2023-04-14,Finance,Job Board,Interview,Rejected,24,2023-05-08,Tobias Wolf
+CAND0237,Tim Werner,2023-11-21,Operations,Job Board,Interview,Rejected,35,2023-12-26,Marcus Bauer
+CAND0238,Monika Bauer,2024-12-06,Marketing,Job Board,Screening,Rejected,7,2024-12-13,Elena Koch
+CAND0239,Monika Fischer,2023-11-22,Finance,Referral,Screening,Withdrawn,88,2024-02-18,Tobias Wolf
+CAND0240,Sarah Braun,2023-03-21,Marketing,Referral,Offer,Hired,47,2023-05-07,Elena Koch
+CAND0241,Lena Schulz,2023-01-12,HR,Company Website,Screening,Rejected,15,2023-01-27,Elena Koch
+CAND0242,Sandra Wolf,2024-01-31,Engineering,LinkedIn,Offer,Rejected,28,2024-02-28,Tobias Wolf
+CAND0243,Monika Braun,2024-01-20,Finance,Company Website,Offer,Hired,68,2024-03-28,Marcus Bauer
+CAND0244,Lukas Schäfer,2023-03-17,HR,Referral,Applied,Rejected,44,2023-04-30,Sandra Meier
+CAND0245,Sarah Hartmann,2023-12-17,Engineering,LinkedIn,Offer,Hired,55,2024-02-10,Elena Koch
+CAND0246,Florian Braun,2024-08-31,Marketing,LinkedIn,Interview,Withdrawn,10,2024-09-10,Marcus Bauer
+CAND0247,Sandra Hofmann,2023-02-24,Sales,Job Board,Screening,Rejected,31,2023-03-27,Sandra Meier
+CAND0248,Monika Neumann,2023-09-01,Marketing,Company Website,Offer,Hired,57,2023-10-28,Tobias Wolf
+CAND0249,Hannah Werner,2024-01-05,Engineering,Referral,Offer,Hired,18,2024-01-23,Tobias Wolf
+CAND0250,Hannah Schneider,2023-01-27,Engineering,Referral,Offer,Hired,88,2023-04-25,Tobias Wolf
+CAND0251,Jessica Bauer,2024-02-12,Marketing,LinkedIn,Interview,Rejected,18,2024-03-01,Marcus Bauer
+CAND0252,Petra Klein,2024-01-14,HR,Company Website,Applied,Rejected,40,2024-02-23,Sandra Meier
+CAND0253,Jan Krüger,2024-07-31,Marketing,Referral,Offer,Hired,19,2024-08-19,Sandra Meier
+CAND0254,Sandra Neumann,2023-08-21,Finance,Job Board,Offer,Rejected,73,2023-11-02,Tobias Wolf
+CAND0255,Sabine Schwarz,2023-11-03,HR,Referral,Offer,Hired,11,2023-11-14,Marcus Bauer
+CAND0256,Emma Weber,2023-06-27,HR,LinkedIn,Screening,Withdrawn,34,2023-07-31,Elena Koch
+CAND0257,Katharina Schäfer,2024-11-30,Engineering,Job Board,Screening,Rejected,83,2025-02-21,Elena Koch
+CAND0258,Oliver Klein,2024-07-23,HR,LinkedIn,Interview,Rejected,42,2024-09-03,Elena Koch
+CAND0259,Monika Lange,2024-02-29,Engineering,Job Board,Applied,Rejected,20,2024-03-20,Elena Koch
+CAND0260,Marco Schwarz,2023-12-19,Finance,Company Website,Interview,Withdrawn,56,2024-02-13,Tobias Wolf
+CAND0261,Daniel Meier,2023-10-10,Sales,LinkedIn,Offer,Rejected,11,2023-10-21,Sandra Meier
+CAND0262,Christian Werner,2024-05-01,Engineering,Referral,Interview,Withdrawn,9,2024-05-10,Sandra Meier
+CAND0263,Laura Hoffmann,2024-05-18,Marketing,Company Website,Screening,Withdrawn,36,2024-06-23,Tobias Wolf
+CAND0264,Petra Wagner,2024-03-02,Marketing,Company Website,Applied,Rejected,31,2024-04-02,Tobias Wolf
+CAND0265,Andreas Hofmann,2024-01-18,Finance,Job Board,Screening,Withdrawn,15,2024-02-02,Tobias Wolf
+CAND0266,Emma Werner,2024-08-05,Finance,Referral,Offer,Hired,31,2024-09-05,Elena Koch
+CAND0267,Emma Schulz,2024-04-12,Engineering,Referral,Offer,Hired,53,2024-06-04,Sandra Meier
+CAND0268,Stefan Koch,2024-02-11,Finance,Job Board,Applied,Rejected,10,2024-02-21,Tobias Wolf
+CAND0269,Sarah Werner,2024-04-30,Sales,Job Board,Interview,Rejected,51,2024-06-20,Sandra Meier
+CAND0270,Tobias Krause,2023-01-29,Marketing,LinkedIn,Screening,Rejected,80,2023-04-19,Marcus Bauer
+CAND0271,Sabine Müller,2023-07-31,Operations,Referral,Offer,Hired,59,2023-09-28,Elena Koch
+CAND0272,Katharina Zimmermann,2024-10-24,Sales,Job Board,Applied,Rejected,35,2024-11-28,Sandra Meier
+CAND0273,Tobias Klein,2024-01-21,HR,Company Website,Interview,Withdrawn,39,2024-02-29,Sandra Meier
+CAND0274,Fabian Braun,2023-04-15,Finance,Job Board,Offer,Hired,54,2023-06-08,Sandra Meier
+CAND0275,Nina Krause,2023-04-21,Operations,Company Website,Interview,Rejected,42,2023-06-02,Sandra Meier
+CAND0276,Felix Schröder,2024-12-29,Operations,Company Website,Interview,Withdrawn,31,2025-01-29,Marcus Bauer
+CAND0277,Marco Hoffmann,2024-02-18,Finance,LinkedIn,Screening,Rejected,10,2024-02-28,Sandra Meier
+CAND0278,Lisa Krüger,2024-02-02,HR,Job Board,Screening,Rejected,50,2024-03-23,Tobias Wolf
+CAND0279,Julia Wolf,2023-11-04,Finance,Company Website,Screening,Withdrawn,44,2023-12-18,Marcus Bauer
+CAND0280,Jan Becker,2024-07-26,Operations,Company Website,Screening,Rejected,49,2024-09-13,Sandra Meier
+CAND0281,Katharina Schwarz,2023-11-11,Operations,Referral,Interview,Rejected,54,2024-01-04,Sandra Meier
+CAND0282,Tim Schwarz,2024-04-26,Engineering,Job Board,Offer,Hired,88,2024-07-23,Elena Koch
+CAND0283,Andreas Richter,2024-05-27,Sales,Job Board,Offer,Rejected,74,2024-08-09,Elena Koch
+CAND0284,Nina Krause,2023-07-25,Sales,Referral,Offer,Rejected,25,2023-08-19,Marcus Bauer
+CAND0285,Thomas Müller,2023-12-07,HR,LinkedIn,Screening,Rejected,47,2024-01-23,Tobias Wolf
+CAND0286,Jan Weber,2023-06-22,Sales,Company Website,Screening,Rejected,69,2023-08-30,Tobias Wolf
+CAND0287,Maria Neumann,2024-03-15,HR,Job Board,Interview,Withdrawn,7,2024-03-22,Marcus Bauer
+CAND0288,Anna Braun,2023-11-26,Engineering,Company Website,Screening,Rejected,9,2023-12-05,Marcus Bauer
+CAND0289,Claudia Schröder,2023-12-19,Operations,Referral,Offer,Hired,20,2024-01-08,Sandra Meier
+CAND0290,Simon Hartmann,2023-02-16,Engineering,Referral,Offer,Hired,44,2023-04-01,Sandra Meier
+CAND0291,Emma Meyer,2023-05-18,Operations,Job Board,Offer,Rejected,52,2023-07-09,Tobias Wolf
+CAND0292,Lukas Schwarz,2023-08-18,Sales,LinkedIn,Screening,Rejected,34,2023-09-21,Marcus Bauer
+CAND0293,Katharina Lange,2024-12-29,Marketing,LinkedIn,Applied,Rejected,55,2025-02-22,Elena Koch
+CAND0294,Markus Richter,2023-04-21,Operations,LinkedIn,Applied,Rejected,13,2023-05-04,Tobias Wolf
+CAND0295,Anna Hoffmann,2024-07-14,Engineering,Job Board,Screening,Rejected,33,2024-08-16,Tobias Wolf
+CAND0296,Julia Schröder,2024-06-16,Operations,LinkedIn,Screening,Rejected,60,2024-08-15,Elena Koch
+CAND0297,Oliver Wagner,2023-04-19,Engineering,Company Website,Screening,Rejected,40,2023-05-29,Sandra Meier
+CAND0298,Tobias Hofmann,2023-06-14,Marketing,Job Board,Offer,Hired,70,2023-08-23,Tobias Wolf
+CAND0299,Markus Werner,2023-01-03,Sales,Company Website,Offer,Hired,18,2023-01-21,Tobias Wolf
+CAND0300,Katharina Braun,2024-06-07,Engineering,Referral,Offer,Hired,19,2024-06-26,Marcus Bauer
+CAND0301,Maria Krause,2023-09-28,Marketing,Job Board,Applied,Rejected,29,2023-10-27,Sandra Meier
+CAND0302,Maria Müller,2023-11-17,Operations,Company Website,Applied,Rejected,19,2023-12-06,Marcus Bauer
+CAND0303,Patrick Werner,2024-01-02,Marketing,Referral,Interview,Withdrawn,18,2024-01-20,Sandra Meier
+CAND0304,Claudia Hofmann,2024-02-15,Engineering,Referral,Offer,Rejected,41,2024-03-27,Tobias Wolf
+CAND0305,Julia Richter,2023-06-20,Operations,Job Board,Applied,Rejected,27,2023-07-17,Tobias Wolf
+CAND0306,Lukas Krause,2024-09-17,Sales,Job Board,Interview,Rejected,85,2024-12-11,Marcus Bauer
+CAND0307,Sophie Schulz,2023-04-26,HR,Job Board,Interview,Withdrawn,12,2023-05-08,Sandra Meier
+CAND0308,Oliver Schröder,2024-11-25,Operations,LinkedIn,Screening,Rejected,50,2025-01-14,Elena Koch
+CAND0309,Fabian Meier,2023-09-12,Operations,Job Board,Offer,Rejected,26,2023-10-08,Elena Koch
+CAND0310,Sarah Schneider,2023-06-10,Operations,LinkedIn,Offer,Rejected,70,2023-08-19,Tobias Wolf
+CAND0311,Lisa Neumann,2023-12-05,Sales,Company Website,Screening,Withdrawn,71,2024-02-14,Tobias Wolf
+CAND0312,Marco Klein,2023-03-22,Sales,Job Board,Offer,Rejected,18,2023-04-09,Sandra Meier
+CAND0313,Sandra Schmidt,2024-10-31,HR,LinkedIn,Offer,Hired,58,2024-12-28,Elena Koch
+CAND0314,Simon Schäfer,2024-09-25,Finance,LinkedIn,Screening,Rejected,90,2024-12-24,Sandra Meier
+CAND0315,Petra Fischer,2024-04-10,Sales,LinkedIn,Offer,Rejected,53,2024-06-02,Elena Koch
+CAND0316,Oliver Koch,2023-12-16,Engineering,Referral,Interview,Rejected,77,2024-03-02,Elena Koch
+CAND0317,Julia Schulz,2024-05-19,Sales,LinkedIn,Offer,Hired,59,2024-07-17,Marcus Bauer
+CAND0318,Christian Fischer,2024-02-07,Engineering,Referral,Offer,Hired,31,2024-03-09,Tobias Wolf
+CAND0319,Tim Schröder,2024-11-19,Operations,LinkedIn,Offer,Rejected,65,2025-01-23,Marcus Bauer
+CAND0320,Elena Lehmann,2024-06-27,Engineering,Job Board,Offer,Rejected,81,2024-09-16,Marcus Bauer
+CAND0321,Vanessa Meier,2023-05-12,Operations,Referral,Offer,Hired,83,2023-08-03,Sandra Meier
+CAND0322,Daniel Schäfer,2024-09-15,HR,Job Board,Screening,Withdrawn,42,2024-10-27,Sandra Meier
+CAND0323,Nina Hofmann,2023-05-22,Sales,Job Board,Interview,Rejected,77,2023-08-07,Marcus Bauer
+CAND0324,David Schröder,2024-10-01,Sales,Referral,Interview,Rejected,23,2024-10-24,Sandra Meier
+CAND0325,Hannah Meier,2024-07-29,Marketing,LinkedIn,Offer,Rejected,75,2024-10-12,Tobias Wolf
+CAND0326,Thomas Krüger,2023-04-20,Finance,LinkedIn,Offer,Hired,25,2023-05-15,Elena Koch
+CAND0327,Thomas Hofmann,2023-06-14,Marketing,Referral,Interview,Withdrawn,25,2023-07-09,Sandra Meier
+CAND0328,Philipp Krause,2023-02-03,Finance,Referral,Offer,Rejected,20,2023-02-23,Marcus Bauer
+CAND0329,Claudia Bauer,2024-06-07,Sales,Job Board,Interview,Rejected,13,2024-06-20,Tobias Wolf
+CAND0330,Emma Zimmermann,2023-02-25,Finance,Company Website,Offer,Hired,39,2023-04-05,Tobias Wolf
+CAND0331,Jessica Hartmann,2024-12-22,Operations,Referral,Interview,Rejected,82,2025-03-14,Marcus Bauer
+CAND0332,David Meyer,2024-04-04,Marketing,Referral,Offer,Hired,16,2024-04-20,Elena Koch
+CAND0333,Sarah Schwarz,2024-03-14,Engineering,Job Board,Interview,Rejected,23,2024-04-06,Sandra Meier
+CAND0334,Felix Lehmann,2024-04-22,Marketing,LinkedIn,Screening,Rejected,12,2024-05-04,Sandra Meier
+CAND0335,Monika Neumann,2024-09-22,Operations,LinkedIn,Interview,Withdrawn,69,2024-11-30,Sandra Meier
+CAND0336,Sophie Schmitt,2023-11-22,Operations,LinkedIn,Screening,Rejected,73,2024-02-03,Marcus Bauer
+CAND0337,Tobias Krüger,2024-07-03,Finance,Job Board,Interview,Rejected,35,2024-08-07,Sandra Meier
+CAND0338,Anna Fischer,2023-10-28,Marketing,Company Website,Offer,Rejected,78,2024-01-14,Sandra Meier
+CAND0339,Nina Bauer,2024-10-19,Sales,Job Board,Screening,Rejected,12,2024-10-31,Elena Koch
+CAND0340,Patrick Schröder,2024-07-07,Marketing,Job Board,Applied,Rejected,73,2024-09-18,Tobias Wolf
+CAND0341,Sabine Schneider,2023-10-31,Engineering,Job Board,Screening,Withdrawn,48,2023-12-18,Elena Koch
+CAND0342,Tobias Krüger,2024-06-30,Finance,Referral,Offer,Hired,15,2024-07-15,Marcus Bauer
+CAND0343,Sophie Hartmann,2023-07-30,Engineering,Job Board,Offer,Rejected,89,2023-10-27,Marcus Bauer
+CAND0344,Thomas Meyer,2023-12-06,HR,LinkedIn,Offer,Hired,16,2023-12-22,Sandra Meier
+CAND0345,Petra Braun,2023-08-22,Finance,LinkedIn,Interview,Withdrawn,56,2023-10-17,Tobias Wolf
+CAND0346,Anna Braun,2023-01-18,Marketing,Job Board,Applied,Rejected,75,2023-04-03,Elena Koch
+CAND0347,Andreas Zimmermann,2023-03-16,Operations,LinkedIn,Applied,Rejected,44,2023-04-29,Elena Koch
+CAND0348,Sarah Neumann,2024-01-26,HR,Company Website,Applied,Rejected,67,2024-04-02,Marcus Bauer
+CAND0349,Felix Hoffmann,2024-02-05,Operations,Referral,Interview,Rejected,88,2024-05-03,Sandra Meier
+CAND0350,Anna Schwarz,2024-07-22,Finance,LinkedIn,Offer,Hired,12,2024-08-03,Tobias Wolf
+CAND0351,Sandra Meier,2023-08-04,Marketing,LinkedIn,Interview,Rejected,34,2023-09-07,Marcus Bauer
+CAND0352,Markus Meyer,2023-08-15,Sales,Referral,Interview,Rejected,31,2023-09-15,Elena Koch
+CAND0353,Katharina Fischer,2024-07-16,Operations,Job Board,Offer,Hired,15,2024-07-31,Marcus Bauer
+CAND0354,Hannah Zimmermann,2024-01-01,Marketing,Job Board,Screening,Rejected,19,2024-01-20,Elena Koch
+CAND0355,Felix Schwarz,2024-05-12,Marketing,Referral,Interview,Rejected,81,2024-08-01,Sandra Meier
+CAND0356,Lisa Hofmann,2023-06-22,HR,Company Website,Offer,Hired,38,2023-07-30,Tobias Wolf
+CAND0357,Simon Klein,2023-05-18,Marketing,Company Website,Interview,Rejected,68,2023-07-25,Sandra Meier
+CAND0358,Vanessa Schneider,2024-07-18,HR,Company Website,Offer,Hired,89,2024-10-15,Sandra Meier
+CAND0359,Sophie Hartmann,2023-07-21,Finance,Referral,Offer,Hired,87,2023-10-16,Elena Koch
+CAND0360,Tim Bauer,2024-10-08,Finance,LinkedIn,Offer,Hired,81,2024-12-28,Marcus Bauer
+CAND0361,Felix Koch,2023-09-24,Finance,LinkedIn,Offer,Rejected,90,2023-12-23,Tobias Wolf
+CAND0362,Sabine Schneider,2023-10-25,Finance,Referral,Offer,Hired,71,2024-01-04,Tobias Wolf
+CAND0363,Laura Klein,2023-01-11,Finance,Company Website,Screening,Rejected,72,2023-03-24,Marcus Bauer
+CAND0364,Lena Schmidt,2024-08-02,Finance,Referral,Screening,Rejected,68,2024-10-09,Marcus Bauer
+CAND0365,Tobias Schröder,2023-03-06,Sales,Job Board,Screening,Rejected,12,2023-03-18,Sandra Meier
+CAND0366,Nina Fischer,2024-04-10,HR,Job Board,Screening,Withdrawn,90,2024-07-09,Sandra Meier
+CAND0367,Claudia Koch,2024-07-11,Finance,Company Website,Offer,Rejected,90,2024-10-09,Elena Koch
+CAND0368,Marco Schmitt,2023-08-17,HR,Company Website,Interview,Rejected,51,2023-10-07,Tobias Wolf
+CAND0369,Sabine Braun,2023-05-23,Finance,LinkedIn,Screening,Rejected,16,2023-06-08,Sandra Meier
+CAND0370,Markus Krüger,2023-07-11,Sales,Referral,Offer,Hired,84,2023-10-03,Marcus Bauer
+CAND0371,Tobias Schwarz,2023-04-27,Marketing,Job Board,Offer,Rejected,68,2023-07-04,Marcus Bauer
+CAND0372,Tim Meyer,2023-09-07,Engineering,Job Board,Offer,Hired,80,2023-11-26,Marcus Bauer
+CAND0373,David Schröder,2023-05-31,Finance,LinkedIn,Offer,Hired,40,2023-07-10,Tobias Wolf
+CAND0374,Petra Zimmermann,2024-11-08,Operations,LinkedIn,Screening,Withdrawn,34,2024-12-12,Tobias Wolf
+CAND0375,David Zimmermann,2023-08-13,Sales,Job Board,Screening,Withdrawn,81,2023-11-02,Sandra Meier
+CAND0376,Tim Schneider,2024-12-03,Operations,Referral,Offer,Rejected,83,2025-02-24,Marcus Bauer
+CAND0377,Sabine Krüger,2023-05-16,HR,Job Board,Screening,Rejected,73,2023-07-28,Tobias Wolf
+CAND0378,Vanessa Schmidt,2023-04-09,Finance,Referral,Offer,Hired,85,2023-07-03,Elena Koch
+CAND0379,Jessica Werner,2024-11-06,HR,LinkedIn,Offer,Hired,84,2025-01-29,Elena Koch
+CAND0380,Florian Becker,2024-03-06,Finance,Job Board,Applied,Rejected,74,2024-05-19,Tobias Wolf
+CAND0381,Laura Schulz,2024-08-26,Marketing,Job Board,Screening,Withdrawn,61,2024-10-26,Tobias Wolf
+CAND0382,Emma Müller,2023-10-18,Engineering,Referral,Offer,Rejected,39,2023-11-26,Elena Koch
+CAND0383,Sandra Koch,2023-01-08,Finance,LinkedIn,Screening,Rejected,47,2023-02-24,Elena Koch
+CAND0384,Florian Schwarz,2024-10-29,HR,Referral,Interview,Rejected,75,2025-01-12,Sandra Meier
+CAND0385,Fabian Wolf,2024-02-11,Operations,Company Website,Offer,Rejected,77,2024-04-28,Marcus Bauer
+CAND0386,Lena Lange,2024-07-22,Finance,Company Website,Interview,Rejected,80,2024-10-10,Tobias Wolf
+CAND0387,Julia Wagner,2023-05-02,Operations,Referral,Offer,Rejected,27,2023-05-29,Tobias Wolf
+CAND0388,Claudia Braun,2024-09-20,Finance,Company Website,Applied,Rejected,27,2024-10-17,Elena Koch
+CAND0389,Sophie Schulz,2024-04-27,Sales,LinkedIn,Interview,Withdrawn,18,2024-05-15,Marcus Bauer
+CAND0390,Daniel Zimmermann,2024-09-15,Engineering,Company Website,Offer,Hired,56,2024-11-10,Sandra Meier
+CAND0391,Oliver Hoffmann,2024-10-17,Sales,LinkedIn,Applied,Rejected,32,2024-11-18,Marcus Bauer
+CAND0392,Sarah Krüger,2024-06-06,Finance,LinkedIn,Screening,Rejected,85,2024-08-30,Elena Koch
+CAND0393,Jan Schulz,2024-11-01,Sales,Company Website,Offer,Hired,27,2024-11-28,Tobias Wolf
+CAND0394,Anna Hartmann,2024-02-09,Operations,Company Website,Screening,Rejected,73,2024-04-22,Elena Koch
+CAND0395,Michael Becker,2023-10-19,Finance,LinkedIn,Interview,Rejected,51,2023-12-09,Marcus Bauer
+CAND0396,Sandra Schröder,2024-08-11,HR,Job Board,Offer,Hired,29,2024-09-09,Elena Koch
+CAND0397,Katharina Meier,2023-10-29,Finance,LinkedIn,Applied,Rejected,72,2024-01-09,Sandra Meier
+CAND0398,Simon Krüger,2024-07-30,HR,Job Board,Screening,Rejected,50,2024-09-18,Tobias Wolf
+CAND0399,Lisa Krüger,2023-04-30,HR,LinkedIn,Offer,Rejected,88,2023-07-27,Marcus Bauer
+CAND0400,Stefan Hoffmann,2023-12-28,HR,Company Website,Applied,Rejected,40,2024-02-06,Elena Koch

@@ -1,0 +1,201 @@
+employee_id,full_name,department,job_title,contract_type,start_date,end_date,termination_quarter,status,location
+EMP001,Laura Hartmann,HR,HR Specialist,Full-time,2020-02-21,,,Active,Berlin
+EMP002,Lukas Schneider,HR,HR Specialist,Full-time,2023-01-21,,,Active,Munich
+EMP003,Jessica Richter,Sales,Sales Manager,Full-time,2023-05-17,,,Active,Munich
+EMP004,Sarah Hofmann,Sales,Sales Manager,Part-time,2021-07-23,2021-11-03,Q4 2021,Terminated,Frankfurt
+EMP005,Julia Schneider,Sales,Sales Manager,Part-time,2020-11-14,,,Active,Frankfurt
+EMP006,Simon Neumann,Engineering,Software Engineer,Part-time,2021-12-05,,,Active,Berlin
+EMP007,Philipp Meier,Operations,Operations Specialist,Full-time,2022-02-14,,,Active,Hamburg
+EMP008,Hannah Schneider,Marketing,Marketing Specialist,Full-time,2020-05-22,,,Active,Munich
+EMP009,Patrick Meyer,Operations,Operations Specialist,Full-time,2022-02-17,,,Active,Hamburg
+EMP010,Sarah Neumann,Sales,Sales Manager,Full-time,2021-06-30,2022-02-21,Q1 2022,Terminated,Munich
+EMP011,Fabian Becker,Engineering,Software Engineer,Contract,2022-02-16,,,Active,Hamburg
+EMP012,Nina Bauer,Operations,Operations Specialist,Full-time,2020-04-24,,,Active,Hamburg
+EMP013,Marco Bauer,Engineering,Software Engineer,Full-time,2023-03-07,2024-04-22,Q2 2024,Terminated,Frankfurt
+EMP014,Katharina Hartmann,Engineering,Software Engineer,Full-time,2020-10-12,,,Active,Remote
+EMP015,Laura Schröder,Sales,Sales Manager,Full-time,2023-04-10,,,Active,Frankfurt
+EMP016,Florian Zimmermann,Engineering,Software Engineer,Full-time,2020-04-06,2021-05-14,Q2 2021,Terminated,Berlin
+EMP017,Anna Krüger,Sales,Sales Manager,Contract,2023-05-05,2024-04-16,Q2 2024,Terminated,Berlin
+EMP018,Christian Fischer,HR,HR Specialist,Part-time,2023-01-04,,,Active,Hamburg
+EMP019,Katharina Schröder,Sales,Sales Manager,Full-time,2022-07-18,,,Active,Munich
+EMP020,Sabine Zimmermann,Marketing,Marketing Specialist,Part-time,2020-08-05,2022-07-07,Q3 2022,Terminated,Munich
+EMP021,Oliver Lehmann,Engineering,Software Engineer,Part-time,2020-11-26,,,Active,Berlin
+EMP022,Andreas Becker,Marketing,Marketing Specialist,Contract,2022-09-27,,,Active,Berlin
+EMP023,Sophie Lange,Sales,Sales Manager,Full-time,2023-03-07,2023-08-31,Q3 2023,Terminated,Remote
+EMP024,Sarah Schulz,Finance,Finance Specialist,Contract,2020-09-19,,,Active,Remote
+EMP025,Emma Hofmann,Operations,Operations Specialist,Part-time,2022-05-16,2024-02-17,Q1 2024,Terminated,Hamburg
+EMP026,Markus Becker,Sales,Sales Manager,Full-time,2022-02-03,,,Active,Munich
+EMP027,Lisa Müller,Engineering,Software Engineer,Full-time,2020-02-13,,,Active,Berlin
+EMP028,Christian Schneider,Finance,Finance Specialist,Contract,2020-04-30,,,Active,Remote
+EMP029,Monika Schwarz,Sales,Sales Manager,Full-time,2022-09-21,,,Active,Frankfurt
+EMP030,Florian Koch,Sales,Sales Manager,Full-time,2022-08-26,2023-06-06,Q2 2023,Terminated,Frankfurt
+EMP031,Daniel Hartmann,Sales,Sales Manager,Full-time,2020-04-20,2024-03-03,Q1 2024,Terminated,Hamburg
+EMP032,Petra Weber,Finance,Finance Specialist,Full-time,2020-08-11,,,Active,Frankfurt
+EMP033,Petra Schmitt,Engineering,Software Engineer,Contract,2022-08-05,,,Active,Remote
+EMP034,Stefan Meyer,Engineering,Software Engineer,Contract,2023-01-12,,,Active,Frankfurt
+EMP035,Anna Bauer,Marketing,Marketing Specialist,Full-time,2021-03-13,2021-10-09,Q4 2021,Terminated,Hamburg
+EMP036,Fabian Krüger,Operations,Operations Specialist,Full-time,2022-07-20,,,Active,Frankfurt
+EMP037,Jessica Schmidt,Engineering,Software Engineer,Full-time,2021-08-30,,,Active,Hamburg
+EMP038,Oliver Meyer,Engineering,Software Engineer,Contract,2023-04-11,,,Active,Berlin
+EMP039,Stefan Bauer,Operations,Operations Specialist,Full-time,2020-06-13,2021-01-29,Q1 2021,Terminated,Berlin
+EMP040,Philipp Schneider,Operations,Operations Specialist,Full-time,2023-03-12,,,Active,Frankfurt
+EMP041,Tobias Krüger,HR,HR Specialist,Contract,2023-03-03,,,Active,Hamburg
+EMP042,Simon Schäfer,Sales,Sales Manager,Full-time,2022-03-21,,,Active,Berlin
+EMP043,Tobias Schröder,Engineering,Software Engineer,Full-time,2023-06-26,2023-11-14,Q4 2023,Terminated,Hamburg
+EMP044,Hannah Meyer,Engineering,Software Engineer,Full-time,2021-12-15,2024-08-31,Q3 2024,Terminated,Frankfurt
+EMP045,Fabian Hoffmann,Operations,Operations Specialist,Full-time,2021-09-11,2024-11-27,Q4 2024,Terminated,Berlin
+EMP046,Fabian Weber,Operations,Operations Specialist,Contract,2020-10-02,,,Active,Hamburg
+EMP047,Katharina Schröder,Sales,Sales Manager,Full-time,2021-03-07,2022-07-26,Q3 2022,Terminated,Frankfurt
+EMP048,Michael Schmidt,Sales,Sales Manager,Full-time,2020-04-14,,,Active,Berlin
+EMP049,Petra Neumann,Sales,Sales Manager,Full-time,2020-09-24,2022-06-12,Q2 2022,Terminated,Frankfurt
+EMP050,Felix Neumann,Marketing,Marketing Specialist,Contract,2020-08-17,,,Active,Berlin
+EMP051,Maria Hoffmann,Operations,Operations Specialist,Full-time,2023-04-07,,,Active,Hamburg
+EMP052,Julia Koch,Operations,Operations Specialist,Full-time,2020-03-22,2021-08-24,Q3 2021,Terminated,Remote
+EMP053,Stefan Krause,Operations,Operations Specialist,Full-time,2022-04-12,2024-08-16,Q3 2024,Terminated,Munich
+EMP054,Christian Schmitt,Operations,Operations Specialist,Full-time,2020-12-28,2021-05-17,Q2 2021,Terminated,Frankfurt
+EMP055,Julia Bauer,Finance,Finance Specialist,Part-time,2021-05-23,,,Active,Berlin
+EMP056,Lena Hoffmann,Operations,Operations Specialist,Contract,2021-03-31,,,Active,Munich
+EMP057,Sophie Lange,Sales,Sales Manager,Full-time,2021-01-30,,,Active,Hamburg
+EMP058,Jessica Schäfer,Sales,Sales Manager,Contract,2022-11-09,,,Active,Berlin
+EMP059,Katharina Schmidt,Engineering,Software Engineer,Contract,2021-06-18,,,Active,Berlin
+EMP060,Vanessa Schröder,Marketing,Marketing Specialist,Full-time,2021-12-08,,,Active,Berlin
+EMP061,Florian Müller,Sales,Sales Manager,Full-time,2023-03-26,,,Active,Remote
+EMP062,Sophie Krüger,Operations,Operations Specialist,Full-time,2023-01-07,2023-10-25,Q4 2023,Terminated,Hamburg
+EMP063,Andreas Krüger,HR,HR Specialist,Full-time,2020-09-12,,,Active,Frankfurt
+EMP064,Claudia Krüger,Sales,Sales Manager,Full-time,2021-08-28,,,Active,Munich
+EMP065,Andreas Hoffmann,Marketing,Marketing Specialist,Part-time,2021-09-08,,,Active,Munich
+EMP066,Petra Krüger,Sales,Sales Manager,Full-time,2023-04-02,2024-05-25,Q2 2024,Terminated,Munich
+EMP067,Philipp Schäfer,Marketing,Marketing Specialist,Full-time,2020-12-13,,,Active,Berlin
+EMP068,Emma Weber,Finance,Finance Specialist,Full-time,2021-04-26,,,Active,Berlin
+EMP069,Simon Richter,Engineering,Software Engineer,Part-time,2022-08-31,,,Active,Remote
+EMP070,Anna Meier,Engineering,Software Engineer,Full-time,2022-02-25,,,Active,Berlin
+EMP071,Oliver Klein,Finance,Finance Specialist,Contract,2021-03-24,,,Active,Berlin
+EMP072,Oliver Neumann,Marketing,Marketing Specialist,Part-time,2020-09-05,,,Active,Remote
+EMP073,Florian Werner,Sales,Sales Manager,Contract,2022-06-25,2024-09-28,Q3 2024,Terminated,Remote
+EMP074,Stefan Werner,Sales,Sales Manager,Full-time,2020-11-21,2023-10-19,Q4 2023,Terminated,Hamburg
+EMP075,Petra Schneider,Finance,Finance Specialist,Full-time,2022-12-03,,,Active,Hamburg
+EMP076,Laura Weber,Sales,Sales Manager,Full-time,2021-11-18,,,Active,Munich
+EMP077,Christian Neumann,Sales,Sales Manager,Full-time,2020-11-08,2021-06-17,Q2 2021,Terminated,Frankfurt
+EMP078,Tim Hofmann,Sales,Sales Manager,Contract,2021-02-27,2023-08-03,Q3 2023,Terminated,Berlin
+EMP079,Lena Hoffmann,Operations,Operations Specialist,Full-time,2023-03-25,,,Active,Frankfurt
+EMP080,Vanessa Meier,Operations,Operations Specialist,Full-time,2022-05-08,,,Active,Munich
+EMP081,Christian Krüger,Marketing,Marketing Specialist,Full-time,2021-07-12,,,Active,Frankfurt
+EMP082,Daniel Schwarz,Finance,Finance Specialist,Full-time,2022-08-15,2024-08-11,Q3 2024,Terminated,Remote
+EMP083,Simon Meyer,HR,HR Specialist,Full-time,2020-06-20,,,Active,Berlin
+EMP084,Claudia Schulz,Sales,Sales Manager,Full-time,2021-11-01,,,Active,Frankfurt
+EMP085,Thomas Koch,Sales,Sales Manager,Full-time,2020-06-16,,,Active,Munich
+EMP086,Emma Werner,HR,HR Specialist,Contract,2020-03-23,,,Active,Berlin
+EMP087,Monika Wagner,HR,HR Specialist,Full-time,2021-05-03,,,Active,Frankfurt
+EMP088,Markus Lange,HR,HR Specialist,Full-time,2022-01-25,,,Active,Munich
+EMP089,Monika Krüger,Operations,Operations Specialist,Contract,2020-08-09,,,Active,Frankfurt
+EMP090,Stefan Fischer,Sales,Sales Manager,Full-time,2021-02-10,,,Active,Hamburg
+EMP091,Maria Koch,Operations,Operations Specialist,Contract,2023-05-14,2024-09-22,Q3 2024,Terminated,Remote
+EMP092,Anna Krause,Sales,Sales Manager,Full-time,2022-01-28,,,Active,Frankfurt
+EMP093,Simon Hofmann,Finance,Finance Specialist,Full-time,2020-08-04,,,Active,Munich
+EMP094,Jessica Lange,Sales,Sales Manager,Full-time,2022-12-04,2023-12-05,Q4 2023,Terminated,Frankfurt
+EMP095,Jan Schulz,Sales,Sales Manager,Contract,2023-04-28,,,Active,Frankfurt
+EMP096,Christian Müller,Sales,Sales Manager,Full-time,2022-08-09,,,Active,Frankfurt
+EMP097,Katharina Schäfer,Operations,Operations Specialist,Full-time,2021-01-07,,,Active,Hamburg
+EMP098,Emma Schneider,Operations,Operations Specialist,Full-time,2021-07-19,,,Active,Munich
+EMP099,Elena Braun,Finance,Finance Specialist,Full-time,2022-09-27,,,Active,Frankfurt
+EMP100,Stefan Hoffmann,Sales,Sales Manager,Full-time,2020-02-05,,,Active,Remote
+EMP101,Fabian Schäfer,Sales,Sales Manager,Full-time,2023-02-07,,,Active,Hamburg
+EMP102,Emma Schäfer,HR,HR Specialist,Full-time,2021-07-08,,,Active,Berlin
+EMP103,Michael Hartmann,Finance,Finance Specialist,Full-time,2021-01-14,,,Active,Remote
+EMP104,Emma Hoffmann,Operations,Operations Specialist,Contract,2022-12-10,,,Active,Munich
+EMP105,Michael Schmidt,Sales,Sales Manager,Full-time,2021-09-11,,,Active,Berlin
+EMP106,Julia Krause,Marketing,Marketing Specialist,Part-time,2020-09-15,,,Active,Berlin
+EMP107,Thomas Schulz,Marketing,Marketing Specialist,Full-time,2022-08-19,,,Active,Frankfurt
+EMP108,Thomas Weber,Engineering,Software Engineer,Full-time,2020-05-13,,,Active,Munich
+EMP109,Fabian Lange,Finance,Finance Specialist,Full-time,2021-09-14,,,Active,Frankfurt
+EMP110,Petra Lehmann,Marketing,Marketing Specialist,Full-time,2023-06-20,,,Active,Frankfurt
+EMP111,Thomas Zimmermann,Sales,Sales Manager,Full-time,2023-04-20,2024-05-26,Q2 2024,Terminated,Berlin
+EMP112,Sarah Becker,Operations,Operations Specialist,Full-time,2021-03-01,2022-11-22,Q4 2022,Terminated,Munich
+EMP113,Vanessa Wolf,Marketing,Marketing Specialist,Full-time,2020-11-16,,,Active,Hamburg
+EMP114,Simon Schneider,Engineering,Software Engineer,Full-time,2021-08-13,,,Active,Munich
+EMP115,Jessica Becker,Operations,Operations Specialist,Full-time,2023-04-22,2024-02-08,Q1 2024,Terminated,Munich
+EMP116,Andreas Zimmermann,Operations,Operations Specialist,Full-time,2020-10-18,,,Active,Remote
+EMP117,Daniel Schulz,Operations,Operations Specialist,Full-time,2022-06-18,,,Active,Remote
+EMP118,Florian Hartmann,Marketing,Marketing Specialist,Full-time,2022-06-15,,,Active,Hamburg
+EMP119,Monika Schwarz,Marketing,Marketing Specialist,Contract,2020-02-22,,,Active,Berlin
+EMP120,David Wolf,Operations,Operations Specialist,Part-time,2021-07-05,,,Active,Remote
+EMP121,Marco Schneider,HR,HR Specialist,Full-time,2021-07-23,,,Active,Frankfurt
+EMP122,Sarah Schäfer,Sales,Sales Manager,Full-time,2021-11-13,,,Active,Frankfurt
+EMP123,Fabian Schmidt,HR,HR Specialist,Full-time,2021-08-13,,,Active,Frankfurt
+EMP124,Daniel Krause,Engineering,Software Engineer,Contract,2021-05-31,,,Active,Remote
+EMP125,Thomas Wagner,Operations,Operations Specialist,Full-time,2020-01-03,2023-04-18,Q2 2023,Terminated,Remote
+EMP126,Fabian Weber,Sales,Sales Manager,Full-time,2022-10-17,2023-03-08,Q1 2023,Terminated,Hamburg
+EMP127,Vanessa Schmitt,Sales,Sales Manager,Contract,2022-09-19,,,Active,Munich
+EMP128,Jan Becker,Finance,Finance Specialist,Full-time,2021-09-28,,,Active,Berlin
+EMP129,Hannah Schröder,Sales,Sales Manager,Full-time,2020-08-28,2021-10-07,Q4 2021,Terminated,Hamburg
+EMP130,Felix Bauer,Sales,Sales Manager,Full-time,2022-09-15,2023-08-20,Q3 2023,Terminated,Munich
+EMP131,Michael Lange,Operations,Operations Specialist,Contract,2022-11-06,2023-06-23,Q2 2023,Terminated,Frankfurt
+EMP132,Andreas Werner,Sales,Sales Manager,Full-time,2022-11-05,,,Active,Remote
+EMP133,Lena Schäfer,Marketing,Marketing Specialist,Full-time,2022-09-29,2024-03-29,Q1 2024,Terminated,Remote
+EMP134,Emma Hofmann,Finance,Finance Specialist,Full-time,2022-02-11,,,Active,Munich
+EMP135,Elena Hofmann,Marketing,Marketing Specialist,Full-time,2021-04-23,2023-11-10,Q4 2023,Terminated,Frankfurt
+EMP136,Sabine Schwarz,Sales,Sales Manager,Full-time,2020-11-07,,,Active,Hamburg
+EMP137,Anna Hartmann,Operations,Operations Specialist,Contract,2022-06-20,,,Active,Munich
+EMP138,Katharina Schäfer,Sales,Sales Manager,Part-time,2020-11-12,,,Active,Remote
+EMP139,Claudia Schäfer,HR,HR Specialist,Contract,2020-06-13,2024-06-23,Q2 2024,Terminated,Frankfurt
+EMP140,Hannah Becker,Operations,Operations Specialist,Full-time,2020-03-14,2021-10-05,Q4 2021,Terminated,Berlin
+EMP141,Petra Meyer,Sales,Sales Manager,Contract,2020-07-20,2024-09-28,Q3 2024,Terminated,Hamburg
+EMP142,Lena Koch,Operations,Operations Specialist,Full-time,2020-04-04,,,Active,Frankfurt
+EMP143,David Meyer,Engineering,Software Engineer,Full-time,2022-12-23,,,Active,Munich
+EMP144,Tim Weber,Engineering,Software Engineer,Full-time,2022-02-22,,,Active,Munich
+EMP145,Simon Meier,Sales,Sales Manager,Full-time,2021-06-04,,,Active,Hamburg
+EMP146,Tim Hoffmann,HR,HR Specialist,Contract,2020-11-19,,,Active,Frankfurt
+EMP147,Claudia Krause,HR,HR Specialist,Full-time,2022-07-24,,,Active,Frankfurt
+EMP148,Hannah Müller,Engineering,Software Engineer,Full-time,2022-02-20,,,Active,Frankfurt
+EMP149,Marco Werner,Sales,Sales Manager,Contract,2023-03-05,2023-07-23,Q3 2023,Terminated,Hamburg
+EMP150,Emma Zimmermann,Finance,Finance Specialist,Full-time,2021-04-16,,,Active,Hamburg
+EMP151,Maria Hoffmann,HR,HR Specialist,Contract,2020-10-07,,,Active,Frankfurt
+EMP152,Hannah Schäfer,Engineering,Software Engineer,Full-time,2022-01-17,,,Active,Frankfurt
+EMP153,Patrick Schröder,Engineering,Software Engineer,Contract,2020-09-27,,,Active,Remote
+EMP154,Elena Schmitt,Operations,Operations Specialist,Part-time,2020-12-02,,,Active,Hamburg
+EMP155,Sophie Weber,Finance,Finance Specialist,Full-time,2021-11-24,,,Active,Munich
+EMP156,Jan Schmitt,Operations,Operations Specialist,Full-time,2022-03-24,2024-09-22,Q3 2024,Terminated,Frankfurt
+EMP157,Katharina Schwarz,Engineering,Software Engineer,Full-time,2023-01-03,,,Active,Frankfurt
+EMP158,Lukas Zimmermann,Finance,Finance Specialist,Full-time,2022-01-30,,,Active,Remote
+EMP159,Simon Lehmann,Sales,Sales Manager,Full-time,2023-06-03,,,Active,Hamburg
+EMP160,Andreas Wolf,HR,HR Specialist,Contract,2020-08-26,,,Active,Berlin
+EMP161,Jessica Richter,Engineering,Software Engineer,Full-time,2023-01-05,,,Active,Remote
+EMP162,Marco Zimmermann,Finance,Finance Specialist,Full-time,2020-11-12,2024-10-13,Q4 2024,Terminated,Frankfurt
+EMP163,Petra Klein,Operations,Operations Specialist,Full-time,2021-07-26,,,Active,Munich
+EMP164,Lena Schmidt,Operations,Operations Specialist,Full-time,2020-07-22,2022-11-11,Q4 2022,Terminated,Frankfurt
+EMP165,Tobias Braun,Sales,Sales Manager,Full-time,2020-09-07,2023-06-25,Q2 2023,Terminated,Remote
+EMP166,Monika Wagner,Operations,Operations Specialist,Contract,2020-04-13,2021-11-22,Q4 2021,Terminated,Berlin
+EMP167,Lisa Schäfer,Operations,Operations Specialist,Full-time,2023-02-09,,,Active,Munich
+EMP168,Felix Weber,Finance,Finance Specialist,Contract,2023-05-05,,,Active,Remote
+EMP169,Laura Müller,Sales,Sales Manager,Contract,2020-12-23,,,Active,Hamburg
+EMP170,Katharina Schmidt,Finance,Finance Specialist,Full-time,2021-05-02,,,Active,Munich
+EMP171,Petra Lange,Finance,Finance Specialist,Full-time,2022-12-13,,,Active,Hamburg
+EMP172,Philipp Schmidt,Marketing,Marketing Specialist,Full-time,2020-08-11,,,Active,Remote
+EMP173,Daniel Richter,Sales,Sales Manager,Full-time,2020-03-04,,,Active,Berlin
+EMP174,Vanessa Weber,Marketing,Marketing Specialist,Full-time,2022-06-27,,,Active,Berlin
+EMP175,Vanessa Schröder,Engineering,Software Engineer,Full-time,2023-04-13,,,Active,Hamburg
+EMP176,Markus Krause,Sales,Sales Manager,Part-time,2023-05-24,,,Active,Remote
+EMP177,Sandra Schäfer,Finance,Finance Specialist,Contract,2021-03-16,,,Active,Frankfurt
+EMP178,Katharina Koch,Sales,Sales Manager,Full-time,2020-07-13,,,Active,Munich
+EMP179,Jan Richter,HR,HR Specialist,Part-time,2022-08-29,,,Active,Berlin
+EMP180,Tim Neumann,Finance,Finance Specialist,Full-time,2022-02-02,,,Active,Remote
+EMP181,Florian Krause,Sales,Sales Manager,Contract,2020-09-07,,,Active,Berlin
+EMP182,Sabine Wagner,Operations,Operations Specialist,Full-time,2023-05-14,,,Active,Munich
+EMP183,Fabian Koch,HR,HR Specialist,Full-time,2021-04-04,,,Active,Berlin
+EMP184,Fabian Lange,Finance,Finance Specialist,Full-time,2023-03-21,,,Active,Remote
+EMP185,Michael Müller,Marketing,Marketing Specialist,Contract,2023-02-14,,,Active,Munich
+EMP186,Felix Schwarz,Sales,Sales Manager,Full-time,2021-09-24,2023-12-11,Q4 2023,Terminated,Frankfurt
+EMP187,Claudia Richter,Engineering,Software Engineer,Full-time,2020-03-03,,,Active,Frankfurt
+EMP188,Monika Zimmermann,Sales,Sales Manager,Full-time,2022-01-27,,,Active,Berlin
+EMP189,Jan Schulz,Operations,Operations Specialist,Full-time,2020-11-14,,,Active,Frankfurt
+EMP190,Tobias Lange,HR,HR Specialist,Full-time,2022-09-21,,,Active,Remote
+EMP191,Tim Wolf,Engineering,Software Engineer,Full-time,2022-05-30,,,Active,Remote
+EMP192,Thomas Müller,HR,HR Specialist,Contract,2020-04-03,,,Active,Munich
+EMP193,Markus Müller,Sales,Sales Manager,Full-time,2021-03-08,2022-11-11,Q4 2022,Terminated,Frankfurt
+EMP194,Lisa Schröder,Finance,Finance Specialist,Full-time,2020-12-25,,,Active,Remote
+EMP195,Maria Richter,Operations,Operations Specialist,Contract,2021-12-26,,,Active,Berlin
+EMP196,Daniel Hofmann,Sales,Sales Manager,Full-time,2020-06-08,2023-11-29,Q4 2023,Terminated,Frankfurt
+EMP197,Philipp Klein,Sales,Sales Manager,Full-time,2022-04-09,,,Active,Hamburg
+EMP198,Oliver Schneider,Engineering,Software Engineer,Full-time,2020-08-04,,,Active,Frankfurt
+EMP199,Sophie Schröder,Operations,Operations Specialist,Part-time,2021-11-26,,,Active,Berlin
+EMP200,Felix Becker,Marketing,Marketing Specialist,Full-time,2021-02-01,2023-04-17,Q2 2023,Terminated,Berlin
