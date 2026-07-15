@@ -116,6 +116,19 @@ Built in Looker Studio with three interactive pages:
 
 ---
 
+## Dashboard Screenshots
+
+**Page 1 — Hiring Funnel Analysis**
+![Hiring Funnel](screenshots/page1_hiring_funnel.png)
+
+**Page 2 — Employee Turnover Analysis**
+![Employee Turnover](screenshots/page2_employee_turnover.png)
+
+**Page 3 — Employee Absence Analysis**
+![Absence Analysis](screenshots/page3_absence_analysis.png)
+
+---
+
 ## Author
 
 **Ubiratan Gonzaga**
