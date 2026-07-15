@@ -112,7 +112,7 @@ Built in Looker Studio with three interactive pages:
 - **Page 2** — Employee Turnover Analysis
 - **Page 3** — Employee Absence Analysis
 
-[View Dashboard][(https://datastudio.google.com/s/vMo-Qu0YbIA)]
+[View Dashboard](https://datastudio.google.com/s/vMo-Qu0YbIA)
 
 ---
 
